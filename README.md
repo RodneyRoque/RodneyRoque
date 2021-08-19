@@ -1,5 +1,5 @@
 ### Hello World, I'm Rodney👋
-<br>I'm a Front-End Developer, studying at Danki Code since 2020<br>
+<br>I'm a Front-End Developer, studying since 2020<br>
 In the way to become a Full Stack Developer 😁
 
 - 🏠 I'm From Goiânia-GO
