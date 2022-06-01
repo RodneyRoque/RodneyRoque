@@ -3,7 +3,7 @@
 In the way to become a Full Stack Developer 😁
 
 - 🏠 I'm From Goiânia-GO
-- 🌱 I'm Learning HTML, CSS and Javascript 
+- 🌱 Computer Science
 - 🌍 Português-BR, English, Español 
 
 ##
