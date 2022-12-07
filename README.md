@@ -1,9 +1,8 @@
 ### Hello World, I'm Rodney👋
-<br>I'm a Front-End Developer, studying since 2020<br>
-In the way to become a Full Stack Developer 😁
+<br>In the way to become a Full Stack Developer 😁<br>
 
 - 🏠 I'm From Goiânia-GO
-- 🌱 Computer Science
+- 🌱 Computer Science 3/8
 - 🌍 Português-BR, English, Español 
 
 ##
@@ -14,9 +13,10 @@ In the way to become a Full Stack Developer 😁
 
 ##
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rod-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rod-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rod-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rod-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rod-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />        
 </div>
   
 ##
