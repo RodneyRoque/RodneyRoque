@@ -6,7 +6,6 @@
 
 ##
 <div>
-  <a href = "https://rodneyroque.netlify.app" target = "_blank"><h1>LINK DO MEU SITE</h1></a>
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodneyRoque&layout=compact&langs_count=7&theme=midnight-purple"/>
   <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api?username=RodneyRoque&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
 </div>
@@ -23,10 +22,16 @@
   <img align="center" alt="Rod-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
   
-<div align="center">
+  <div align="center">
   <h2>🚀Follow Me:</h2>
    <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"      target="_blank"></a> 
    <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-     
+  
+   <div>
+    <h2>Acesse meu Site(Portfólio):</h2>
+     <a href="https://rodneyroque.netlify.app" target="_blank"><img style="width:30%;" src="https://www.jornaldaconstrucaocivil.com.br/wp-content/uploads/2018/04/CLIQUE-AQUI-VEJA.png"></a>
+   </div>
+  
+
   ![Snake animation](https://github.com/RodneyRoque/RodneyRoque/blob/output/github-contribution-grid-snake.svg)
-</div>
+
