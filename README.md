@@ -29,7 +29,7 @@
   
    <div>
     <h2>Acesse meu Site(Portfólio):</h2>
-     <a href="https://rodneyroque.netlify.app" target="_blank"><img style="width:30%;" src="https://www.jornaldaconstrucaocivil.com.br/wp-content/uploads/2018/04/CLIQUE-AQUI-VEJA.png"></a>
+     <a href="https://rodneyroque.netlify.app" target="_blank"><img style="width:300px;" src="https://www.jornaldaconstrucaocivil.com.br/wp-content/uploads/2018/04/CLIQUE-AQUI-VEJA.png"></a>
    </div>
   
 
