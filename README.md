@@ -1,7 +1,7 @@
 ## Hello World, I'm Rodney👋
 
 - 🏠 I'm From Goiânia-GO, Brasil
-- 🌱 Computer Science 3/8
+- 🌱 Computer Science 5/8
 - 🌍 Português-BR, English, Español 
 
 ##
